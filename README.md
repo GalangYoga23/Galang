@@ -1,5 +1,4 @@
-# Galang
-
 # hello world
+Hi I am Galang Yoga Pratama
 
-## edit di vscode hello 
+ 
