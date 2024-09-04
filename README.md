@@ -1,5 +1,5 @@
 # hello world
-Hiiiii, I am Galang Yoga Pratama.
+Hiiiii :wave:, I am Galang Yoga Pratama.
 I am from Blitar,East Java.
 I study at Gadjah Mada University and my majoring is Geophysics Student.
 I interest about exploration oil and gas also about wheather.
